@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: URL("../public/images.jpeg") #030728 no-repeat center;
+  background: URL("../public/bg.png") #030728 no-repeat center;
 }
 
 #root {
